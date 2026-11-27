@@ -1,0 +1,6 @@
+{
+  "name": "Snakes & Ladders",
+  "description": "Mobile-first Snakes and Ladders board game with VS Bot and real-time server-authoritative Online Multiplayer for 2 to 6 players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
